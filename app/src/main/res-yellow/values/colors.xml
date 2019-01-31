@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary_yellow">#ff2e2e2e</color>
+    <color name="colorPrimaryDark_yellow">#aaa</color>
+    <color name="colorAccent_yellow">#dfffffff</color>
+    <color name="tabSelected_yellow">#dfce0f00</color>
+    <color name="circle_border_color_yellow">#dfce0f00</color>
+    <color name="title_text_color_yellow">#ddffffff</color>
+    <color name="subtitle_text_color_yellow">#aaffffff</color>
+    <color name="text_color_tip_yellow">#ffffff</color>
+    <color name="text_color_yellow">#ffffff</color>
+    <color name="text_color_hint_yellow">#ffb2b2b2</color>
+    <color name="text_background_yellow">#ff2e2e2e</color>
+    <color name="background_yellow">#ff202020</color>
+    <color name="divider_yellow">#44ffffff</color>
+    <color name="ripple_color_yellow">#44ffffff</color>
+    <color name="statusBarColor_yellow">#ce3d3a</color>
+
+    <!-- flyco tab layout -->
+    <color name="textColorPrimary_yellow">#ff333333</color>
+
+    <color name="t1_1_background_yellow">#aaaaaa</color>
+    <color name="t1_1_tl_underline_color_yellow">#1affffff</color>
+
+    <color name="t1_2_background_yellow">#222222</color>
+    <color name="t1_2_tl_divider_color_yellow">#aa000000</color>
+    <color name="t1_2_tl_indicator_color_yellow">#ffffff</color>
+    <color name="t1_2_tl_textSelectColor_yellow">#ffffff</color>
+    <color name="t1_2_tl_textUnselectColor_yellow">#66ffffff</color>
+    <color name="t1_2_tl_underline_color_yellow">#aa000000</color>
+
+    <color name="t1_3_background_yellow">#F3F90E</color>
+    <color name="t1_4_background_yellow">#889600</color>
+    <color name="t1_5_background_yellow">#6FEC95</color>
+    <color name="t1_6_background_yellow">#CE2736</color>
+    <color name="t1_7_background_yellow">#7583C5</color>
+    <color name="t1_8_background_yellow">#4E1517</color>
+    <color name="t1_8_tl_indicator_color_yellow">#111111</color>
+    <color name="t1_9_background_yellow">#D6F80B</color>
+    <color name="t1_10_background_yellow">#228213</color>
+    <color name="t1_10_tl_indicator_color_yellow">#93E364</color>
+
+    <color name="t2_1_background_yellow">#000000</color>
+    <color name="t2_1_tl_indicator_color_yellow">#C279ED</color>
+    <color name="t2_1_tl_textSelectColor_yellow">#C279ED</color>
+    <color name="t2_1_tl_textUnselectColor_yellow">#66ffffff</color>
+    <color name="t2_1_tl_underline_color_yellow">#333333</color>
+
+    <color name="t2_2_background_yellow">#000000</color>
+    <color name="t2_2_tl_indicator_color_yellow">#C279ED</color>
+    <color name="t2_2_tl_textSelectColor_yellow">#C279ED</color>
+    <color name="t2_2_tl_textUnselectColor_yellow">#66ffffff</color>
+    <color name="t2_2_tl_underline_color_yellow">#333333</color>
+
+    <color name="t2_3_background_yellow">#000000</color>
+    <color name="t2_3_tl_indicator_color_yellow">#C279ED</color>
+    <color name="t2_3_tl_textSelectColor_yellow">#C279ED</color>
+    <color name="t2_3_tl_textUnselectColor_yellow">#66ffffff</color>
+    <color name="t2_3_tl_underline_color_yellow">#333333</color>
+
+    <color name="t2_4_background_yellow">#6FEC95</color>
+    <color name="t2_5_background_yellow">#CE2736</color>
+    <color name="t2_6_background_yellow">#7583C5</color>
+    <color name="t2_7_background_yellow">#4E1517</color>
+    <color name="t2_7_tl_indicator_color_yellow">#111111</color>
+    <color name="t2_8_background_yellow">#D6F80B</color>
+    <color name="t3_1_tl_bar_color_yellow">#000000</color>
+    <color name="t3_1_tl_indicator_color_yellow">#C279ED</color>
+    <color name="t3_2_tl_indicator_color_yellow">#886900</color>
+    <color name="t3_3_tl_bar_color_yellow">#000000</color>
+    <color name="t3_3_tl_indicator_color_yellow">#6FEC95</color>
+    <color name="t3_4_tl_bar_color_yellow">#000000</color>
+    <color name="t3_4_tl_indicator_color_yellow">#CE2736</color>
+    <color name="t3_5_tl_textSelectColor_yellow">#ce2736</color>
+    <color name="t3_5_tl_textUnselectColor_yellow">#ffffff</color>
+
+    <color name="msg_background_color_yellow">#dcd3a3</color>
+    <color name="msg_stroke_color_yellow">#ce2736</color>
+</resources>
